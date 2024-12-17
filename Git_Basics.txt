@@ -1,4 +1,4 @@
-commands:
+COMMANDS:
 
 git --version                   # Tells you the version of git  
 
@@ -22,7 +22,13 @@ git remote add origin https://github.com/babyshank09/git_tutorials.git
 
 git remote -v  
 
-git push origin main 
+git push origin main  
+
+git add .                       # Adds all the files in the directory  
+
+git restore README.txt          # 
+
+
 
 
 
