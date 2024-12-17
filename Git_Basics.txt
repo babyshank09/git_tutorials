@@ -28,6 +28,7 @@ git add .                       # Adds all the files in the directory
 
 git restore README.txt          # 
 
+git reset
 
 
 
